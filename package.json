@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/UnSpiraTive/gmg/issues"
   },
-  "homepage": "https://github.com/UnSpiraTive/gmg#readme"
+  "homepage": "https://github.com/UnSpiraTive/gmg#readme",
+  "dependencies": {
+    "babel-register": "^6.24.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-es2015": "^6.24.1",
+    "dateformat": "^2.0.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-util": "^3.0.8",
+    "util-deprecate": "^1.0.2"
+  }
 }
